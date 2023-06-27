@@ -33,7 +33,7 @@ header {
 #themeSw {
   background-color: var(--bg-color);
   border: .125rem solid var(--font-color);
-  color: var(--bg-color);
+  color: var(--font-color);
 }
 
 #themeSw:hover {
